@@ -2,3 +2,10 @@
 .ytd-watch-next-secondary-results-renderer {
 	display: none !important;
 }
+
+.style-scope .ytd-watch {
+	position:center !important;
+	display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
