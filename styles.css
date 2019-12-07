@@ -9,3 +9,27 @@
     margin-left: auto !important;
     margin-right: auto !important;
 }
+
+
+.style-scope .ytd-player {
+		position:center !important;
+		display: block !important;
+	    margin-left: auto !important;
+	    margin-right: auto !important;
+}
+
+#guide-icon, #logo-icon-container, #sections, #country-code, #button {
+	display: none !important;
+}
+
+#columns, #primary, #primary-inner{
+	position:center !important;
+}
+
+#container{
+
+}
+
+#search-form{
+	width:50% !important;
+}
